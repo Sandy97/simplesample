@@ -10,4 +10,8 @@ object DataModule1: TDataModule1
     Left = 64
     Top = 32
   end
+  object DataSource1: TDataSource
+    Left = 92
+    Top = 60
+  end
 end
